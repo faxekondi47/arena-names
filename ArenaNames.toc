@@ -1,0 +1,4 @@
+## Interface: 90002
+## Title: Arena Names
+## Version: 1.0
+ArenaNames.lua
